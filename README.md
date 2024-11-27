@@ -3,6 +3,7 @@ video_frame_extractor is a Python script that extracts frames from a video and s
 
 ```
 pip install opencv-contrib-python
+pip install tqdm
 ```
 
 
